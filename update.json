@@ -1,5 +1,37 @@
 {
+  "schema_version": 1,
+  "app": "FinTracker",
+  "channel": "stable",
   "version": "2.6.0",
+  "release_type": "stable",
+  "critical_update": false,
+  "published_at": "2026-10-01",
+  "min_windows_version": "10",
   "url": "https://github.com/swelgem-ctrl/FinTracker/releases/latest",
-  "notes": "..."
+  "download_url": "https://github.com/swelgem-ctrl/FinTracker/releases/latest",
+  "installer_url": "",
+  "portable_url": "",
+  "changelog_url": "https://raw.githubusercontent.com/swelgem-ctrl/FinTracker/refs/heads/main/CHANGELOG.md",
+  "sha256": {
+    "installer": "",
+    "portable": ""
+  },
+  "signature": {
+    "algorithm": "",
+    "value": ""
+  },
+  "size_bytes": {
+    "installer": 0,
+    "portable": 0
+  },
+  "notes": "FinTracker v2.6.0 - Desktop Experience & Integration: safer watchlist deletion, large note editor, notification test buttons, close-to-tray with explicit exit, Quick Watchlist floating window, update checker improvements, and Python 3.14 build fixes.",
+  "release_notes": [
+    "Safer watchlist deletion with confirmation.",
+    "Large Note / Remark editor.",
+    "Telegram and email test actions.",
+    "Close-to-tray behavior with explicit Exit.",
+    "Quick Watchlist floating window.",
+    "Update checker improvements.",
+    "Python 3.14 build compatibility fixes."
+  ]
 }
